@@ -6,3 +6,6 @@
 @file    : train.py
 @desc    : 
 """
+from model import vgg
+
+

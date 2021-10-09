@@ -6,7 +6,7 @@
         <remote-mappings server-id="python@sftp://qindanfeng@192.168.2.237:22222/home/qindanfeng/anaconda3/envs/hific/bin/python">
           <settings>
             <list>
-              <mapping local-root="$PROJECT_DIR$" remote-root="/home/qindanfeng/work/deep_learning/minist" />
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/qindanfeng/work/deep_learning/my_classifier" />
             </list>
           </settings>
         </remote-mappings>
